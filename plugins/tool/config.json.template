@@ -14,7 +14,7 @@
 {
   "tools": ["wolfram-alpha"],
   "kwargs": {
-      "openai_api_key": "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",
+      "openai_api_key": "",
       "proxy": "",
       "debug": false,
       "no_default": false,
